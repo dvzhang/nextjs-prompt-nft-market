@@ -7,8 +7,6 @@
 In it's own terminal / command line, run: 
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
-cd hardhat-nextjs-nft-marketplace-fcc
 yarn
 ```
 
